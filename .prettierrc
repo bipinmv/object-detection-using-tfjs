@@ -1,0 +1,12 @@
+{
+  "arrowParens": "avoid",
+  "singleQuote": false,
+  "editor.formatOnSave": true,
+  "proseWrap": "always",
+  "useTabs": false,
+  "requireConfig": false,
+  "trailingComma": "none",
+  "bracketSpacing": true,
+  "jsxBracketSameLine": false,
+  "semi": true
+}
